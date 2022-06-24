@@ -820,6 +820,7 @@ textarea:focus {
 
 .footer > .container {
   display: flex;
+  justify-content: space-between;
 }
 
 .footer-soc {
@@ -829,7 +830,7 @@ textarea:focus {
 .footer-submit {
   width: 570px;
   height: 86px;
-  margin-left: 124px;
+  margin-left: 94px;
 }
 
 .footer-submit-form {
