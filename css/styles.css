@@ -828,11 +828,9 @@ textarea:focus {
 }
 /* ========FOOTER-FORM======= */
 .footer-submit {
-  display: flex;
-  align-items: flex-end;
   width: 570px;
   height: 86px;
-  margin-left: 874px;
+  margin-left: 94px;
 }
 
 .footer-submit-form {
