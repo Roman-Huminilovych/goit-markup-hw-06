@@ -456,6 +456,7 @@ textarea:focus {
   cursor: pointer;
   display: flex;
   align-items: center;
+  justify-content: center;
 }
 .form-label-policy {
   font-size: 14px;
@@ -829,7 +830,9 @@ textarea:focus {
 .footer-submit {
   position: relative;
   width: 570px;
+  max-height: 86px;
   margin-left: 874px;
+  margin-right: 93px;
 }
 
 .footer-submit-form {
@@ -838,7 +841,8 @@ textarea:focus {
   bottom: 100%;
   right: 50%;
   margin-right: -50%;
-  transform: translate(-30%, -40%);
+
+  transform: translate(-30%, -38%);
 }
 
 .footer-submit-text {
